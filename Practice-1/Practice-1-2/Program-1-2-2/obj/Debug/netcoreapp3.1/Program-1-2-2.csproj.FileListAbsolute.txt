@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\repos\Practice-1\Practice-1-2\Program-1-2-2\bin\Debug\netcoreapp3.1\Program-1-2-2.exe
+C:\Users\User\source\repos\repos\Practice-1\Practice-1-2\Program-1-2-2\bin\Debug\netcoreapp3.1\Program-1-2-2.deps.json
+C:\Users\User\source\repos\repos\Practice-1\Practice-1-2\Program-1-2-2\bin\Debug\netcoreapp3.1\Program-1-2-2.runtimeconfig.json
+C:\Users\User\source\repos\repos\Practice-1\Practice-1-2\Program-1-2-2\bin\Debug\netcoreapp3.1\Program-1-2-2.runtimeconfig.dev.json
+C:\Users\User\source\repos\repos\Practice-1\Practice-1-2\Program-1-2-2\bin\Debug\netcoreapp3.1\Program-1-2-2.dll
+C:\Users\User\source\repos\repos\Practice-1\Practice-1-2\Program-1-2-2\bin\Debug\netcoreapp3.1\Program-1-2-2.pdb
+C:\Users\User\source\repos\repos\Practice-1\Practice-1-2\Program-1-2-2\obj\Debug\netcoreapp3.1\Program-1-2-2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\repos\Practice-1\Practice-1-2\Program-1-2-2\obj\Debug\netcoreapp3.1\Program-1-2-2.AssemblyInfo.cs
+C:\Users\User\source\repos\repos\Practice-1\Practice-1-2\Program-1-2-2\obj\Debug\netcoreapp3.1\Program-1-2-2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\repos\Practice-1\Practice-1-2\Program-1-2-2\obj\Debug\netcoreapp3.1\Program-1-2-2.dll
+C:\Users\User\source\repos\repos\Practice-1\Practice-1-2\Program-1-2-2\obj\Debug\netcoreapp3.1\Program-1-2-2.pdb
+C:\Users\User\source\repos\repos\Practice-1\Practice-1-2\Program-1-2-2\obj\Debug\netcoreapp3.1\Program-1-2-2.genruntimeconfig.cache
